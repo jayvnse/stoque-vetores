@@ -17,9 +17,10 @@ public class JavaApplication7 {
      */
     public static void main(String[] args) {
         /* Crie um vetor A com 5 elementos inteiros.
-        Após criado o vetor A faça A[i]=B[i]*/
+        Após criado o vetor A faça A[i]=B[i] */
         Scanner scan = new Scanner(System.in);
         
+        //int[] arrayA = new int[5];
         int[] arrayA = new int[5];
         int[] arrayB = new int[arrayA.length];
         
